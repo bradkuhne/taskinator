@@ -117,7 +117,7 @@ footer {
   margin: 0;
   font-size: 1.8rem;
 }
-
+/*  Ask TA why this displays on a 2nd line and not on same line as .task-name */
 .task-type {
   color: var(--secondary);
   font-size: 1.55rem;
